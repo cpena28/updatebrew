@@ -122,5 +122,3 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICEN
 
 - [Homebrew](https://brew.sh/)
 - Módulo subprocess de Python
-
-Siéntete libre de personalizar este archivo README y el script según tus necesidades específicas.
