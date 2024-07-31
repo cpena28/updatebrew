@@ -114,10 +114,6 @@ log_done("Todos los procesos de Homebrew han finalizado.")
 
 Las funciones de utilidad para el registro están definidas en `utils/interface.py`. Asegúrate de que este archivo esté disponible y contenga las funciones necesarias para el registro.
 
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ## Agradecimientos
 
 - [Homebrew](https://brew.sh/)
